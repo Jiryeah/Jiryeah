@@ -4,13 +4,15 @@ Hi 👋 My name is Faissal Shabani
 Full stack Web Developer
 ------------------------
 
-Hello!Having recently graduated from the University of Texas at San Antonio Coding Bootcamp, I am on a mission to use my newly found knowledge to pursue a career change that will allow me to help others bring their ideas into reality. As of now, I have an emphasis with utilizing the MERN ( MongoDB, Express.js, React.js, Node.js) stack, however I am currently also learning Java and AWS to further cement my backend concepts.
+Hello! Having recently graduated from the University of Texas at San Antonio Coding Bootcamp, I am on a mission to use my newly found knowledge to pursue a career change that will allow me to help others bring their ideas into reality. As of now, I have an emphasis with utilizing the MERN ( MongoDB, Express.js, React.js, Node.js) stack, however I am currently also learning Java and AWS to further cement my backend concepts.
 
 *   🌍  I'm based in Texas
 *   ✉️  You can contact me at [business.faissal@outlook.com](mailto:business.faissal@outlook.com)
-*   🧠  I'm learning advanced React concepts, Typescript, Java, and AWS.
-*   🤝  I'm open to collaborating on anything open source and meaningful.
-*   ⚡  I'm a big Formula 1 fan!### Skills<p align="left">
+*   🧠  I'm currently learning advanced React concepts, Typescript, Java, and AWS.
+*   🤝  I'm open to meaningful collaboration.
+*   ⚡  I'm a big Formula 1 fan!
+### Skills
+<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
                                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
