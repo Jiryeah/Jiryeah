@@ -8,7 +8,7 @@ Hello! Having recently graduated from the University of Texas at San Antonio Cod
 
 *   🌍  I'm based in Texas
 *   ✉️  You can contact me at [business.faissal@outlook.com](mailto:business.faissal@outlook.com)
-*   🧠  I'm currently learning advanced React concepts, Typescript, Java, and AWS.
+*   🧠  I'm currently learning advanced React concepts and Java. This year my goal is to learn Typescript, AWS, and GoLang to further advance my programming knowledge. 
 *   🤝  I'm open to meaningful collaboration.
 *   ⚡  I'm a big Formula 1 fan!
 ### Skills
