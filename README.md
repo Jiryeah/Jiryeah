@@ -4,7 +4,7 @@ Hi 👋 My name is Faissal Shabani
 Full stack Web Developer
 ------------------------
 
-Hello! Having recently graduated from the University of Texas at San Antonio Coding Bootcamp, I am on a mission to use my newly found knowledge to pursue a career change that will allow me to help others bring their ideas into reality. As of now, I have an emphasis with utilizing the MERN ( MongoDB, Express.js, React.js, Node.js) stack for my applications. However, I have recently began to use Java, with the Spring Framework, to further cement my backend concepts.
+Hello! I received a Full Stack Web Development Cerftificate from the University of Texas at San Antonio Coding Bootcamp. As of now, I have an emphasis with utilizing the MERN ( MongoDB, Express.js, React.js, Node.js) stack for my applications. I have recently began to use Java, with the Spring Framework, to further cement my backend concepts by building a tech blog. I love to build things that help others, all the while learning new ways to overcome industry standard problems. I enjoy working with others and collaborating towards a common goal, while also learning what I can from my teammates. 
 
 *   🌍  I'm based in Texas
 *   ✉️  You can contact me at [business.faissal@outlook.com](mailto:faissalshabani@gmail.com)
