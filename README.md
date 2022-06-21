@@ -7,7 +7,7 @@ Full stack Web Developer
 Hello! Having recently graduated from the University of Texas at San Antonio Coding Bootcamp, I am on a mission to use my newly found knowledge to pursue a career change that will allow me to help others bring their ideas into reality. As of now, I have an emphasis with utilizing the MERN ( MongoDB, Express.js, React.js, Node.js) stack for my applications. However, I have recently began to use Java, with the Spring Framework, to further cement my backend concepts.
 
 *   🌍  I'm based in Texas
-*   ✉️  You can contact me at [business.faissal@outlook.com](mailto:business.faissal@outlook.com)
+*   ✉️  You can contact me at [business.faissal@outlook.com](mailto:faissalshabani@gmail.com)
 *   🧠  I'm currently learning advanced React concepts and AWS. This year my goal is to learn Typescript, AWS, and GoLang to further advance my programming knowledge. 
 *   🤝  I'm open to meaningful collaboration.
 *   ⚡  I'm a big Formula 1 fan!
