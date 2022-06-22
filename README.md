@@ -7,10 +7,11 @@ Full stack Web Developer
 Hello! I received a Full Stack Web Development Cerftificate from the University of Texas at San Antonio Coding Bootcamp. As of now, I have an emphasis with utilizing the MERN ( MongoDB, Express.js, React.js, Node.js) stack for my applications. I have recently began to use Java, with the Spring Framework, to further cement my backend concepts by building a tech blog. I love to build things that help others, all the while learning new ways to overcome industry standard problems. I enjoy working with others and collaborating towards a common goal, while also learning what I can from my teammates. 
 
 *   🌍  I'm based in Texas
-*   ✉️  You can contact me at [business.faissal@outlook.com](mailto:faissalshabani@gmail.com)
+*   ✉️  You can contact me at [faissalshabani@gmail.com](mailto:faissalshabani@gmail.com)
 *   🧠  I'm currently learning advanced React concepts and AWS. This year my goal is to learn Typescript, AWS, and GoLang to further advance my programming knowledge. 
 *   🤝  I'm open to meaningful collaboration.
 *   ⚡  I'm a big Formula 1 fan!
+*   Portfolio: https://faissal-shabani-portfolio.netlify.app/
 ### Skills
 <p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
